@@ -346,7 +346,7 @@ section.body #services .heading h2 span {
 }
 
 .service-body .service-div h4.serv2 {
-	color: pink;
+	color: orange;
 }
 
 .service-body .service-div h4.serv3 {
@@ -362,7 +362,7 @@ section.body #services .heading h2 span {
 }
 
 .service-body .service-div h4.serv6 {
-	color: orange;
+	color: gray;
 }
 
 .service-body .service-div,
